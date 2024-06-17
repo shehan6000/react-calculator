@@ -1,27 +1,16 @@
-# react-calculator
 # React Calculator
 
-A simple calculator application built with React. This project demonstrates the use of React hooks for state management and basic arithmetic operations.
-
-## Table of Contents
-
-- [Demo](#demo)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Scripts](#scripts)
-- [Built With](#built-with)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-
-## Demo
-
-You can view a live demo of the calculator [here](https://your-demo-link.com).
+A simple, yet powerful calculator application built using React. This project demonstrates best practices in React development, including state management, component architecture, and secure handling of arithmetic operations.
 
 ## Features
 
-- Basic arithmetic operations (addition, subtraction, multiplication, division)
-- Clear input and result
-- Real-time input handling and result calculation
+- **Basic Arithmetic Operations**: Supports addition, subtraction, multiplication, and division.
+- **Responsive Design**: Optimized for both desktop and mobile devices.
+- **Error Handling**: Displays error messages for invalid operations.
+- **Secure Evaluation**: Uses `math.js` for secure arithmetic evaluation, avoiding the risks associated with `eval`.
 
+## Getting Started
+
+### Prerequisites
+
+- Node.js and npm installed on your local machine.
